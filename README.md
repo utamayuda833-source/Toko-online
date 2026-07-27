@@ -7,7 +7,7 @@ toko-online/
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Toko NamaKamu</title>
+  <title>Toko Sakura</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -19,10 +19,10 @@ toko-online/
 
   <section class="produk">
     <div class="card">
-      <img src="https://via.placeholder.com/300" alt="Produk 1">
+      <img src="https:/wa.me/6289514870891" alt="Produk 1">
       <h3>Kaos Polos Premium</h3>
       <p>Rp 89.000</p>
-      <button onclick="pesanWA('Kaos Polos Premium', 89000)">Pesan via WA</button>
+      <button onclick="https:/wa.me/6289514870891:('Kaos Polos Premium', 89000)">Pesan via WA</button>
     </div>
 
     <div class="card">
